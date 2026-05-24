@@ -124,4 +124,4 @@ If you’d like to connect, feel free to reach out — [Click here](https://mini
 
 ---
 
-**[Try MiniMock](https://minianonlink.vercel.app/)** | **[Submit Feedback](https://github.com/TuShArBhArDwA/MiniMock/issues)**
+**[Try MiniMock](https://mock.minianon.in)** | **[Submit Feedback](https://github.com/TuShArBhArDwA/MiniMock/issues)**
