@@ -109,7 +109,7 @@ npm run dev
 
 If you find this helpful, consider supporting me:
 
-- **Sponsor Me:** [Buy Me a Coffee!](https://github.com/sponsors/TuShArBhArDwA)
+- **Support:** [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon)
 
 
 ## Design docs
@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Connect with me
 
-If you’d like to connect, feel free to reach out — [Click here](https://minianonlink.vercel.app/tusharbhardwaj)
+If you’d like to connect, feel free to reach out — [Click here](https://link.minianon.in/tusharbhardwaj)
 
 ---
 
